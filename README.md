@@ -81,7 +81,7 @@ While backend engineering is my core strength, I enjoy crafting seamless fronten
 
 ### 💸 SahiHisab – Expense Management App
 Modern expense management system for **individual and group tracking**  
-**Tech Stack**: React, Tailwind CSS, C# (.NET)
+<a> sahihisab.vercel.app /<a>
 
 ### 📇 Smart Contact Manager
 Efficient contact management system  
