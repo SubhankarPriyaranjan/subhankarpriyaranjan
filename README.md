@@ -81,7 +81,7 @@ While backend engineering is my core strength, I enjoy crafting seamless fronten
 
 ### 💸 SahiHisab – Expense Management App
 Modern expense management system for **individual and group tracking**  
-<a> sahihisab.vercel.app /<a>
+[<a> sahihisab.vercel.app /<a>](https://sahihisab.vercel.app/)
 
 ### 📇 Smart Contact Manager
 Efficient contact management system  
